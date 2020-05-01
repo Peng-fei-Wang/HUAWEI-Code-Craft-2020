@@ -9,8 +9,9 @@ data | result | edge | node | ansnum
 [test_data3.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/Preliminary%20Contest/test_data3.txt) | [result3.rar](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/Preliminary%20Contest/result3.rar) | 28W | 25700 | 2896262
 [test_data4.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/Preliminary%20Contest/test_data4.txt) | [result4.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/Preliminary%20Contest/result4.txt) | 24W | 30000 | 561356
 #### 优化思路
-* 最终成绩 0.2622
-* 最终排名 杭厦赛区第14名
+#### 最终成绩
+得分0.2622 杭厦赛区第14名
 ### 复赛
 #### Datasets
 #### 优化思路
+#### 最终成绩
