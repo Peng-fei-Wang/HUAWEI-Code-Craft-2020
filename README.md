@@ -21,11 +21,12 @@ data | result | edge | node | ansnum
 #### Datasets
 data | result | ansnum
 -|-|-
-[test_data1.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/semi-final/test_data1.txt) | [result1.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/semi-final/result1.txt) | 43
-[test_data2.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/semi-final/test_data2.txt) | [result2.rar](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/semi-final/result2.rar) | 697518
+[test_data.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/semi-final/test_data.txt) | [result.txt](https://github.com/wpf-990213/HUAWEI-Code-Craft-2020/blob/master/semi-final/result.txt) | 47
 #### 优化思路
 * 反向搜时保存路径
 * 用数组模拟vector
 * 分页fwrite写入
 * 使用原子操作开多线程，更好地均衡任务量
 #### 最终成绩
+* 得分10.0759
+* 杭厦赛区第6名
